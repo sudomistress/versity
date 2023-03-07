@@ -1,28 +1,46 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo"]
-author = "Hugo Authors"
+description = "What's SudoVersity About"
+date = "2023-03-01"
+aliases = ["about-us", "about"]
+author = "SudoMistress"
 reward = false
 postDate = false
 readingTime = false
 +++
 
+## SudoVersity
+
+This website is where I store ideas, thoughts, snippets, and other things I want to remember, keep track of, or share. I've been around for so long now that I am starting to forget things. Ha! 😂
+
+I wanted a place to put thoughts that others may find, build on, use, explore, or even ignore. There are thoughts about games I play, code I write, philosphies I follow, books I read, and everything in between.
+
+### Contents
+
+The contents found in this site are written by me, [Josey Howarth](/authors/sudomistress/). Images are sourced from locations like Pexels, Unsplash, Pixabay, etc.
+
+## Site Infrastructure
+
+This site exists due to a lot of different moving parts.
+
+### Backend
+
+#### Commenting: GitHub
+
+Comments are currently handled through GitHub as "issues".
+
+#### "Web Server": Netlify
+
+For the moment, the site is hosted on Netlify
+
+### Frontend
+
+#### Static Site Generator: Hugo
+
 Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+##### Hugo Theme: Hugo Bootstrap Theme
+
+The [theme](https://github.com/razonyang/hugo-theme-bootstrap) is from [Razon Yang](https://github.com/razonyang) and if you like it, you too can use it. Also feel free to contribute or donate to their continued improvement of the theme. I have!
