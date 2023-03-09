@@ -2,6 +2,8 @@
 title: "Security Confessions from Darth Securitas: Passwords"
 date: 2023-01-09T16:35:29+08:00
 draft: false
+series:
+  - Technology
 tags:
   - passwords
   - security
