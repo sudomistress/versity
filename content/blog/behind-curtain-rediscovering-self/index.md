@@ -29,7 +29,7 @@ I jokingly ask my husband when I can transfer my mind to a robot body so I can i
 
 ## Sum of all parts
 
-Grudginly accepting the vulnerabilty found in being human has given me a new way of looking at things. At the core of who I am I am someone who wants to spread love and compassion, but to do that effectively, I have to be able to do that with myself.
+Grudgingly accepting the vulnerabilty found in being human has given me a new way of looking at things. At the core of who, I am I am someone who wants to spread love and compassion, but to do that effectively, I have to be able to do that with myself.
 
 Again, not an easy task. There's always a new subject to learn, a person to speak with, a book to read, a game to play, (insert whatever excuse you want here cause I sure do)!
 
@@ -37,7 +37,7 @@ And here I am, with yet another website, another project, another ...excuse.
 
 ## But I have a plan
 
-Most of the time I am very quick to redirect conversations about myself towards others. Good at hiding thoughts, feelings. Great at "Keep On Keeping On"! Well, not anymore.
+Most of the time, I am very quick to redirect conversations about myself towards others. Good at hiding thoughts, feelings. Great at "Keep On Keeping On"! Well, not anymore.
 
 Nope, this time, by including the "Mind Palace" series on this site, I am going to explore all kinds of concepts that interest me. Music, games, ideas, philisophies, and even myself.
 
